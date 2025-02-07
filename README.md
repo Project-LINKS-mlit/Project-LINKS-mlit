@@ -4,6 +4,6 @@
 
 Project LINKS リポジトリでは、プロジェクトの一環として開発した様々なツールやライブラリをOSSとして提供しています。
 
-- [Project LINKSウェブサイト](https://www.mlit.go.jp/links/)と
+- [Project LINKSウェブサイト](https://www.mlit.go.jp/links/)
 - [Project LINKS公式X（旧Twitter）](https://twitter.com/LINKS_MLIT)
 - [Project LINKS公式Youtube](https://www.youtube.com/@%E5%9B%BD%E5%9C%9F%E4%BA%A4%E9%80%9A%E7%9C%81ProjectLINKS)
