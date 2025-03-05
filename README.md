@@ -1,4 +1,4 @@
-![logo-mark](https://github.com/user-attachments/assets/ef319aef-8461-46a2-9e69-48f9be881353)
+![projectlinks_logo_RGB_primary_whiteback](https://github.com/user-attachments/assets/3fe876b4-31d7-4255-b844-4c0189922f3f)
 
 [Project LINKS](https://www.mlit.go.jp/links/)とは、幅広い施策や手続を所管する国土交通省において、これまで活用されてこなかった 様々な行政情報を機械判読や二次利用が可能な「データ」として再構築し、これを活用したデータに基づく政策立案（EBPM)の推進や、新たなビジネス創出（オープ ン・イノベーション）の実現を目指すDXプロジェクトです。
 
